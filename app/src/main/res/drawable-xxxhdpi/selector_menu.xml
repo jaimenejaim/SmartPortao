@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This selector is used for the listview in the dialog_scroll_list.-->
+<!-- it makes the row blue, when its selected. Just that.-->
+<!-- For the textColor, there is another selector being used(selector_text_color)-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@color/green_ligh" android:state_activated="true"/>
+
+</selector>
